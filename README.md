@@ -59,16 +59,10 @@ I enjoy learning new technologies and applying them to real-world projects.
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=default" height="160"/>
-</p>
-
 <hr/>
 <br/><br/>
 📧 Email: sahanavdsahanavd@gmail.com
 <hr/>
-
 <p align="center">
   <i>✨ “Consistent learning and clean coding lead to great software.” ✨</i>
 </p>
