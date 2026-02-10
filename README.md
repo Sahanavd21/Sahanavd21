@@ -50,7 +50,6 @@ I enjoy learning new technologies and applying them to real-world projects.
   </li>
 </ul>
 <hr/>
-<br/><br/>
 📧 Email: sahanavdsahanavd@gmail.com
 <hr/>
 <p align="center">
