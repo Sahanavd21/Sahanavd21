@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahana V D</h1>
 <h3 align="center">Java Full Stack Developer Intern | BE Graduate 2025</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <hr/>
 
 <h2>👩‍💻 About Me</h2>
