@@ -49,11 +49,6 @@ I enjoy learning new technologies and applying them to real-world projects.
     Spring Boot + MySQL application implementing authentication and CRUD operations.
   </li>
 </ul>
-
-<hr/>
-
-<h2>📊 GitHub Stats</h2>
-
 <hr/>
 <br/><br/>
 📧 Email: sahanavdsahanavd@gmail.com
